@@ -1,7 +1,6 @@
 # 🤖 8051-serial-rover-arm
 
-> A UART-controlled robotic rover with a 4-DOF servo arm and payload deployment system, built entirely on the **8051 microcontroller** using Embedded C — no RTOS, no libraries, just bare-metal hardware control.
-
+> A UART-controlled robotic rover with a 4-DOF servo arm and payload deployment system, built entirely on the **8051 microcontroller** using Embedded C 
 ---
 
 
